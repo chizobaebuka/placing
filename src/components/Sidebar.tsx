@@ -8,7 +8,7 @@ import book from "../assets/Notebook.png"
 import heart from "../assets/Heart_01.png"
 import left from "../assets/Chevron_Right_MD.png"
 import settings from "../assets/Settings.png"
-import as from "../assets/AS.png"
+import as from "../assets/as.png"
 
 const Sidebar = () => {
     return (
